@@ -1,0 +1,1 @@
+export let heroheading = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem pariatur corrupti laudantium quos fugit non amet ea neque expedita, hic soluta quo! Ex deserunt tempora eum saepe tenetur magnam."
